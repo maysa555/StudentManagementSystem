@@ -1,20 +1,20 @@
 # Visual Studio
 .vs/
-Debug/
-Release/
 x64/
 x86/
+Debug/
+Release/
 ipch/
-
-# Build files
-*.obj
-*.pdb
-*.ilk
-*.ipch
-*.exe
 
 # User-specific files
 *.user
 *.suo
 *.VC.db
 *.VC.opendb
+
+# Build outputs
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.ipch
